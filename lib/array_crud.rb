@@ -1,5 +1,5 @@
 def create_an_empty_array
-  []
+  [Mom, Dad, Cameron, Christian]
 end
 
 def create_an_array
